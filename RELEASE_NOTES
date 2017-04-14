@@ -2,5 +2,8 @@
 # Release Notes for pvDatabaseCPP
 #
 
+R4.2.0-0.1.1	2017-04-13
+	Updated dependency to pvAccessCPP/R5.0.0-0.2.1
+
 R4.2.0-0.1.0	2017-04-12
 	Added build support for SLAC git workflow
