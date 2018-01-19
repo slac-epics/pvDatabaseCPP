@@ -19,9 +19,9 @@
 # Don't set your version to anything such as "test" that
 # could match a directory name.
 # ==========================================================
-pvAccessCPP_MODULE_VERSION	= R5.0.0-0.2.0
-pvCommonCPP_MODULE_VERSION	= R4.2.0-0.1.0
-pvDataCPP_MODULE_VERSION	= R6.0.0-0.3.0
+pvAccessCPP_MODULE_VERSION	= R6.0.0-0.0.1
+#pvCommonCPP_MODULE_VERSION	= R4.2.0-0.1.0
+pvDataCPP_MODULE_VERSION	= R7.0.0-0.0.1
 
 # ==========================================================
 # Define module paths using pattern
@@ -30,7 +30,7 @@ pvDataCPP_MODULE_VERSION	= R6.0.0-0.3.0
 # FOO = /Full/Path/To/Development/Version 
 # ==========================================================
 pvAccessCPP	= $(EPICS_MODULES)/pvAccessCPP/$(pvAccessCPP_MODULE_VERSION)
-pvCommonCPP	= $(EPICS_MODULES)/pvCommonCPP/$(pvCommonCPP_MODULE_VERSION)
+#pvCommonCPP	= $(EPICS_MODULES)/pvCommonCPP/$(pvCommonCPP_MODULE_VERSION)
 pvDataCPP	= $(EPICS_MODULES)/pvDataCPP/$(pvDataCPP_MODULE_VERSION)
 
 
