@@ -1,6 +1,9 @@
 #
 # Release Notes for pvDatabaseCPP
 #
+R4.3.0-0.0.3	2018-02-27
+	Update to pvAccessCPP/R6.0.0-0.3.0 for fairQueue fix
+
 R4.3.0-0.0.2	2018-02-9
 	Update to pvAccessCPP/R6.0.0-0.2.0 for crash fixes
 
